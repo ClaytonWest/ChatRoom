@@ -3,11 +3,11 @@ A complete chatroom created in java, utilizing a client handler, A server and cl
 
 
 Threads:
--- A thread is a sequence of instructions within a program that can be executed independently of other code.
+# A thread is a sequence of instructions within a program that can be executed independently of other code.
 
--- Threads share a memory space.
+# Threads share a memory space.
 
--- When you launch an executable, it is running in a thread within a process.
+# When you launch an executable, it is running in a thread within a process.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Concurrency (Single Core) Vs Parallel Execution(Multi-Core)
