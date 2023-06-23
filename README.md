@@ -1,6 +1,6 @@
 # ChatRoom
 A complete chatroom created in java, utilizing a client handler, A server and client connections via sockets and Buffer reader/writers
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Threads:
 * A thread is a sequence of instructions within a program that can be executed independently of other code.
@@ -10,7 +10,7 @@ A complete chatroom created in java, utilizing a client handler, A server and cl
 * When you launch an executable, it is running in a thread within a process.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Concurrency (Single Core) Vs Parallel Execution(Multi-Core):
+### Concurrency (Single Core) Vs Parallel Execution(Multi-Core):
 
 * Concurrency: running two or more programs in overlapping time phases.
 
